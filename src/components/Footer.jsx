@@ -53,7 +53,7 @@ const Footer = () => {
 
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-black text-sm">
-            &copy; {currentYear} Your Name. All rights reserved.
+            &copy; {currentYear} Chetan Kanade. All rights reserved.
           </p>
 
           <div className="mt-4 md:mt-0">
